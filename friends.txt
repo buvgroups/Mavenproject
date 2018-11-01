@@ -1,0 +1,3 @@
+what is jenkins?
+how it is work?
+what is pre requirment software?
