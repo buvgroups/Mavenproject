@@ -1,2 +1,0 @@
-ant maven and gradle those and all java based bulid tool.
-we have automate the executable file from source code it is called bulid tools
