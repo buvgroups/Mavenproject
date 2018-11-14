@@ -83,12 +83,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-18-219-160-154.us-east-2.compute.amazonaws.com:8081/repository/buv-releases/</url>
+	      <url>http://ec2-18-216-243-158.us-east-2.compute.amazonaws.com:8081/repository/buv-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-18-219-160-154.us-east-2.compute.amazonaws.com:8081/repository/buv-snapshot/</url>
+	      <url>http://ec2-18-216-243-158.us-east-2.compute.amazonaws.com:8081/repository/buv-snapshot/</url>
 	    </snapshotRepository>
 </distributionManagement>
 	
